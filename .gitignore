@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+SpringFrameworkDemo/.settings/org.eclipse.jdt.apt.core.prefs
+SpringFrameworkDemo/.settings/org.eclipse.jdt.core.prefs
+SpringFrameworkDemo/.settings/org.eclipse.m2e.core.prefs
+SpringFrameworkDemo/.settings/org.eclipse.wst.common.component
+SpringFrameworkDemo/.settings/org.eclipse.wst.common.project.facet.core.xml
+SpringFrameworkDemo/.settings/org.eclipse.wst.validation.prefs
+SpringFrameworkDemo/.project
+SpringFrameworkDemo/.classpath
+SpringFrameworkDemo/target/classes/spring1.xml
+SpringFrameworkDemo/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+SpringFrameworkDemo/target/m2e-wtp/web-resources/META-INF/maven/com.buffer/SpringFrameworkDemo/pom.properties
+SpringFrameworkDemo/target/m2e-wtp/web-resources/META-INF/maven/com.buffer/SpringFrameworkDemo/pom.xml
